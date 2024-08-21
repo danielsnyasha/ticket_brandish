@@ -22,12 +22,7 @@ html, body {
   padding: 0;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(
-    to bottom,
-    rgb(var(--background-start-rgb)),
-    rgb(var(--background-end-rgb))
-  );
-  color: rgb(var(--foreground-rgb));
+  background: white;
 }
 
 main {
